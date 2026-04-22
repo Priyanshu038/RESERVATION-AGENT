@@ -5,7 +5,7 @@ import plotly.express as px
 from datetime import datetime
 
 
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://reservation-agent-t9ib.onrender.com"
 st.set_page_config(page_title="Khana Darbaar | Pro AI Agent", layout="wide", initial_sidebar_state="expanded")
 
 
